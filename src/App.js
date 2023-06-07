@@ -10,7 +10,7 @@ function App() {
     <div className='App'>
           <Header/>
           <MyButton/>
-          <button className={MyStyles.normal}> Normal Button </button>
+          <button className="bg-blue-700 border"> Normal Button </button>
           <button className={MyStyles2.normal}> Normal Button </button>
    </div>
   );
